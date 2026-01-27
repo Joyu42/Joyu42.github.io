@@ -15,7 +15,7 @@ export const themeConfig: ThemeConfig = {
     author: 'Joyu',
     // site url
     // url: 'https://joyu-blog.vercel.app/',
-    url: 'https://joyu42.github.io',
+    url: 'https://joyu.ink',
     // base path
     // root directory for all pages and assets
     base: '/', // e.g., '/blog', '/docs'
