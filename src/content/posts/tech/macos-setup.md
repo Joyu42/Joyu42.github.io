@@ -15,4 +15,4 @@ abbrlink: ''
 
 ## Aerospace
 
-桌面平铺管理工具
+桌面平铺管理工
