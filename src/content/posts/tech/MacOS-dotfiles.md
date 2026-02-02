@@ -62,7 +62,7 @@ brew install --cask nikitabobko/tap/aerospace
    ```
 
    5. 手风琴"alt+,",平铺"alt+/"
-   6. 系统（临时启动）应用默认用floating，即不服从aerspace管理
+   6. 系统（临时启动）应用默认用floating，即不服从aerospace管理
 
    ```toml
    # 访达 Finder
@@ -97,7 +97,7 @@ brew install --cask nikitabobko/tap/aerospace
 brew install karabiner-elements
 ```
 
-2.导入配置文件\
+2. 导入配置文件\
 		没啥讲的就是把caps lock映射成Hyper键（Ctrl+Alt+Shift+Cmd\
 		  ps：切换输入法请自行换成shift\
 		按住Hyper+H/J/K/L vim式上下左右
