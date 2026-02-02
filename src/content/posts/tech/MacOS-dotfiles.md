@@ -136,7 +136,7 @@ brew install --cask nikitabobko/tap/aerospace
 
    ```toml
    [workspace-to-monitor-force-assignment]
-   	C = 'dell'   #代码       
+    C = 'dell'   #代码       
     Q = 'dell'   #qq微信
     7 = 'dell'    
     8 = 'dell'    
