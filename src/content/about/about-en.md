@@ -1,18 +1,45 @@
 ---
 lang: en
 ---
+![](src/content/about/background-about.JPG)
+# Blog
+```c++
+/**
+ * @note The purpose of this site is not to show off knowledge, but to record ignorance.
+ * @since 2025-10-22T09:07:46.286Z
+ */
+#include <iostream>
+#include <string>
+class Blog{
+public:
+    std::string name, author, url;
 
-# About Me
+    Blog(const std::string& name, const std::string& author, const std::string& url)
+    : name(name), author(author), url(url) {}
+};
+int main(){
+    Blog site("Joyu's Blog","Joyu Ng","https://www.joyu.ink");
+    std::cout<<"Thoughts into Bytes."<<std::endl;
+    return 0;
+}
+```
+# Me
+Hi!
 
-Hello! I am Joyu, currently an undergraduate student. It is a pleasure to meet you on the internet.
+I am Joyu, an undergraduate student still on the path of learning.\
+I love tinkering with technology and occasionally immersing myself in the world of books, movies, and music.
+:::fold[♥️]
+*    **Book**: *Crime and Punishment*, *Three Days of Happiness*, *The Myth of Sisyphus*
+*    **Music**: *The Old Man and the Sea*, *Merry Christmas Mr. Lawrence*
+*    **Movie**: *The Legend of 1900*
+*    **Anime**: *Steins;Gate*, *Neon Genesis Evangelion*
+:::
+Nice to meet you on the internet. 😊
 
-**I enjoy reading books, listening to music, watching movies, tinkering with computers, and writing code.**
+If you want to chat, **feel free to email me at (gbc@joyu.ink).**
 
-I will share some related content, as well as some daily summaries and random thoughts.
-
-If you would like to communicate with me, **feel free to send me an email (gbc@joyu.ink).**
-
-> ## _**In case I don't see you, good morning, good afternoon, and good night.**_
+---
+> ### _**In case I don't see you, good afternoon, good evening, and good night.**_
 >
 > -- <cite>The Truman Show</cite>
 
