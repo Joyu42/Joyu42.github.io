@@ -40,9 +40,8 @@ brew install --cask nikitabobko/tap/aerospace
    ```toml
       persistent-workspaces = ["1", "2", "3", "4", "5", "6", "7", "8", "9", "A", "B","C", "D", "E","F"（删除）,"G", "I", "M", "N", "O", "P", "Q","R", "S", "T", "U", "V", "W", "X", "Y", "Z"]
    ```
-
-      ~~alt-f = 'workspace F'~~\
-      ~~alt-shift-f = 'move-node-to-workspace F'~~
+   ~~alt-f = 'workspace F'~~\
+   ~~alt-shift-f = 'move-node-to-workspace F'~~
 
    3. 调整边距
 
