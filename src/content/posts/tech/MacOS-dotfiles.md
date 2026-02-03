@@ -32,9 +32,9 @@ brew install iterm2
    ![](src/content/posts/_images/iShot_2026-02-02_21.19.48.png)
    ![](src/content/posts/_images/iShot_2026-02-02_21.22.40.png)
 2. 字体(下载好后在终端设置里启用即可)
-   ```bash
-   brew install font-maple-mono-nf-cn
-   ```
+```bash
+brew install font-maple-mono-nf-cn
+```
 ## [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)-科学且明智地使用互联网
 ```bash
 brew install clash-verge-rev
